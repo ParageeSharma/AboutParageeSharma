@@ -22,7 +22,7 @@ a > i {
 
 #inner1 {
   float:left; 
-  color:#1ee9ff;
+  color:#00ffff;
 	font-size: 20px;
 	padding:0px 10px;
   margin-left: 20px;
@@ -32,7 +32,7 @@ a > i {
 #inner2{
   float:left; 
   clear: left;
-  color:#1ee9ff;
+  color:#00ffff;
 	font-size: 20px;
 	padding:0px 10px;
   margin-left: 20px;
@@ -40,7 +40,7 @@ a > i {
 }
 #inner3{
   float:left; 
-  color:#1ee9ff;
+  color:#00ffff;
 	font-size: 20px;
 	padding:0px 10px;
   margin-left: 20px;
@@ -49,7 +49,7 @@ a > i {
 
 #inner4{
   float:left; 
-  color:#1ee9ff;
+  color:#00ffff;
 	font-size: 20px;
 	padding:0px 10px;
   margin-left: 20px;
@@ -58,7 +58,7 @@ a > i {
 
 #inner5{
   float:left; 
-  color:#1ee9ff;
+  color:#00ffff;
 	font-size: 20px;
 	padding:0px 10px;
   margin-left: 20px;
@@ -76,7 +76,7 @@ body {
   font-family: Georgia;
   margin: 0;
   background-image: url('cod.jpg');
-  background-size: 165%;
+  background-size: cover;
   background-repeat: no-repeat;
 }
   
